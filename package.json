@@ -1,7 +1,7 @@
 {
   "name": "marvel-monokai",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A dark / colorful monokai syntax theme for Atom Editor.",
   "keywords": [
     "syntax",
