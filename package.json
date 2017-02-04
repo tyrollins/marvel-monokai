@@ -1,0 +1,19 @@
+{
+  "name": "marvel-monokai",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A dark / colorful monokai syntax theme for Atom Editor.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "monokai",
+    "dark",
+    "colorful",
+    "marvel"
+  ],
+  "repository": "https://github.com/tyrollins/marvel-monokai",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.12.0 <2.0.0"
+  }
+}
