@@ -1,11 +1,16 @@
 # Marvel Monokai - Syntax Theme
-
-A dark & colorful monokai syntax theme for Atom Editor.
+> dark & colorful monokai syntax theme for Atom Editor
 
 ![Marvel Monokai](http://i.imgur.com/cwRtkCy.png)
 Screenshot Font: `SF Mono`
 
-##### Thanks
-Originally Forked - [Monokai Theme](https://github.com/kevinsawicki/monokai)
+## Related
+- [Marvel Dark Syntax](https://github.com/tyrollins/marvel-dark-syntax) - Atom Editor Syntax Theme
+- [Hyper Marvel](https://github.com/tyrollins/hyper-marvel) - Hyper Theme
 
+## Thanks
+Originally Forked - [Monokai Theme](https://github.com/kevinsawicki/monokai)
 Color Scheme - [Marvel](https://marvelapp.com/styleguide/design/color-scheme)
+
+## License
+MIT © Tyler Rollins
